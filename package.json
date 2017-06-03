@@ -6,6 +6,7 @@
   "scripts": {
     "build": "webpack --config webpack.config.prod.js",
     "dev": "webpack-dev-server --config webpack.config.dev.js",
+    "dev-remote": "webpack-dev-server --config webpack.config.dev.js  --hot --public --host bradleybossard.com --port 3002",
     "lint": "eslint src"
   },
   "keywords": [],
