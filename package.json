@@ -28,6 +28,7 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
+    "Sentimental": "1.0.1",
     "pleasejs": "^0.4.2"
   }
 }
