@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "Sentimental": "1.0.1",
-    "pleasejs": "^0.4.2"
+    "pleasejs": "^0.4.2",
+    "sentiment": "4.0.0"
   }
 }
